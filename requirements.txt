@@ -1,3 +1,4 @@
-Flask==0.10.1
+Flask==0.10.2
 Flask-Login==0.2.11
 ipdb==0.8
+
