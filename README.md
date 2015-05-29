@@ -1,5 +1,6 @@
 A flask app prototype of the Rewind vinyl crowdfunding service. 
 
+edit by harry
 
 Getting the dependencies:
 	
